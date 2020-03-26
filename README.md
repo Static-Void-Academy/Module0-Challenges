@@ -43,10 +43,26 @@ This repository houses or contains the locations to prompts for Module 0's chall
     </td>
   </tr>
   <tr> <!-- M0_C3 -->
-    <td><a href="https://github.com/Static-Void-Academy/M0_C3">M0_C3 Prompt</a></td>
-    <td><a href="https://github.com/Static-Void-Academy/M0_C3">M0_C3 Repository</a></td>
+    <td><a href="/M0_C3.md">M0_C3</a></td>
+    <td>N/A</td>
     <td>
       <a href="https://github.com/Static-Void-Academy/Module0-Solutions/blob/master/M0_C3.py">M0_C3.py</a>
+    </td>
+    <td>An infamous problem in software engineering, modified.</td>
+    <td>
+      <ul>
+        <li>Loops</li>
+        <li>Conditionals</li>
+        <li>Nesting and scope</li>
+        <li>Boolean Logic</li>
+      </ul>
+    </td>
+  </tr>
+  <tr> <!-- M0_C4 -->
+    <td><a href="https://github.com/Static-Void-Academy/M0_C4">M0_C4 Prompt</a></td>
+    <td><a href="https://github.com/Static-Void-Academy/M0_C4">M0_C4 Repository</a></td>
+    <td>
+      <a href="https://github.com/Static-Void-Academy/Module0-Solutions/blob/master/M0_C4.py">M0_C4.py</a>
     </td>
     <td>You're an audio engineer trying to find the volume peaks in songs.</td>
     <td>
