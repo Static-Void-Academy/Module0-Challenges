@@ -1,18 +1,18 @@
 # Module 0 Challenges
 
-This repository houses or contains the locations to prompts for Module 0's challenge problems.
+This repository houses or contains the locations to prompts for Module 0's challenge problems. Challenges `M0_C1` - `M0_C3` have their prompts in this repository. But starting from `M0_C4`, all challenges will be in their own repositories with prompt and associated test files.
+
+Visit [0.3.2 - Explaining the Challenge Format](https://sva.thinkific.com/courses/take/sva-module-0/lessons/11056323-0-3-2-explaining-the-challenge-format-from-here-on-out) in the SVA Course for more details.
 
 <table>
   <tr>
-    <th>Prompt</th>
-    <th>Repository</th>
+    <th>Prompt and/or Repository</th>
     <th>Solution</th>
     <th>Description</th>
     <th>Topics Tested</th>
   </tr>
   <tr> <!-- M0_C1 -->
     <td><a href="/M0_C1.md">M0_C1</a></td>
-    <td>N/A</td>
     <td>
       <a href="https://github.com/Static-Void-Academy/Module0-Solutions/blob/master/M0_C1.py">M0_C1.py</a>
     </td>
@@ -28,7 +28,6 @@ This repository houses or contains the locations to prompts for Module 0's chall
   </tr>
   <tr> <!-- M0_C2 -->
     <td><a href="/M0_C2.md">M0_C2</a></td>
-    <td>N/A</td>
     <td>
       <a href="https://github.com/Static-Void-Academy/Module0-Solutions/blob/master/M0_C2.py">M0_C2.py</a>
     </td>
@@ -59,8 +58,7 @@ This repository houses or contains the locations to prompts for Module 0's chall
     </td>
   </tr>
   <tr> <!-- M0_C4 -->
-    <td><a href="https://github.com/Static-Void-Academy/M0_C4">M0_C4 Prompt</a></td>
-    <td><a href="https://github.com/Static-Void-Academy/M0_C4">M0_C4 Repository</a></td>
+    <td><a href="https://github.com/Static-Void-Academy/M0_C4">M0_C4</a></td>
     <td>
       <a href="https://github.com/Static-Void-Academy/Module0-Solutions/blob/master/M0_C4.py">M0_C4.py</a>
     </td>
@@ -75,5 +73,20 @@ This repository houses or contains the locations to prompts for Module 0's chall
       </ul>
     </td>
   </tr>
+  <tr> <!-- M0_C5 -->
+    <td><a href="https://github.com/Static-Void-Academy/M0_C5">M0_C5</a></td>
+    <td>
+      <a href="https://github.com/Static-Void-Academy/Module0-Solutions/blob/master/M0_C5.py">M0_C5.py</a>
+    </td>
+    <td>You're a teacher calculating the median and average test scores for your class.</td>
+    <td>
+      <ul>
+        <li>Functions</li>
+        <li>Lists</li>
+        <li>Nesting and scope</li>
+        <li>Loops</li>
+        <li>User Input</li>
+      </ul>
+    </td>
+  </tr>
 </table>
-
