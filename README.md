@@ -43,7 +43,6 @@ Visit [0.3.2 - Explaining the Challenge Format](https://sva.thinkific.com/course
   </tr>
   <tr> <!-- M0_C3 -->
     <td><a href="/M0_C3.md">M0_C3</a></td>
-    <td>N/A</td>
     <td>
       <a href="https://github.com/Static-Void-Academy/Module0-Solutions/blob/master/M0_C3.py">M0_C3.py</a>
     </td>
