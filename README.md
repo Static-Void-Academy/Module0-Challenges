@@ -84,7 +84,7 @@ Visit [0.3.2 - Explaining the Challenge Format](https://sva.thinkific.com/course
         <li>Lists</li>
         <li>Nesting and scope</li>
         <li>Loops</li>
-        <li>User Input</li>
+        <li>Basic Math</li>
       </ul>
     </td>
   </tr>
