@@ -88,4 +88,20 @@ Visit [0.3.2 - Explaining the Challenge Format](https://sva.thinkific.com/course
       </ul>
     </td>
   </tr>
+  <tr> <!-- M0_C6 -->
+    <td><a href="https://github.com/Static-Void-Academy/M0_C6">M0_C6</a></td>
+    <td>
+      <a href="https://github.com/Static-Void-Academy/Module0-Solutions/blob/master/M0_C6.py">M0_C6.py</a>
+    </td>
+    <td>You're a security contractor who has been asked to write a simple console program to track who enters and exits a building.</td>
+    <td>
+      <ul>
+        <li>Conditionals</li>
+        <li>Loops</li>
+        <li>Nesting and Scope</li>
+        <li>Dictionaries</li>
+        <li>User Input</li>
+      </ul>
+    </td>
+  </tr>
 </table>
